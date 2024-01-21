@@ -10,7 +10,7 @@ function App() {
    <div className='w-full h-screen duraction-200'
    style={{backgroundColor:bgColor}}>
 
-<div className='fixed flex flex-wrap justify-center align-center bottom-12 inset-x-0 px-2 py-2 rounded-3xl'>
+<div className='fixed flex flex-wrap  justify-center align-center top-60 inset-x-0 px-3 py-2 rounded-3xl'>
 <div className='flex flex-wrap  justify-center gap-3 shadow-lg bg-white px-3 py-2 rounded-3xl'>
     
 
